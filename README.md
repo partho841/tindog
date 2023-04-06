@@ -1,2 +1,1 @@
-# tindog
-A dating website using bootsrap
+TinDog Starting Files
